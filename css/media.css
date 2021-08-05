@@ -1,0 +1,320 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /*headertop*/
+    .headertop h2{
+        font-size: 20px;
+    }
+    /*navbar start*/
+    .navbar ul li a{
+        font-size: 18px;
+    }
+    /*navbar end*/
+     /*team leader start*/
+    .leader{
+        margin-top: 100px;
+        margin-bottom: 150px;
+    }
+    .team_leader h2{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .bt{
+        width: 220px;
+    }
+    .team_leader p{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 100px;
+        margin-top: 40px;
+
+       
+    }
+    .l_one h2 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    font-size: 25px;
+    }
+    .l_one p{
+        margin-top: 25px;
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+     /*client*/
+    .f_h{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .f_h h1{
+        font-size:50px;
+    }
+    .f_h p{
+        margin-top: 15px;
+        font-size:16px;
+    }
+    /*contacts start*/
+    .c_contacts{
+        margin-top: 150px;
+    }
+    .c_contacts h2{
+        font-size: 45px;
+    }
+    .c_contacts p{
+        margin-top: 30px;
+        font-size: 20px;
+        padding: 0 0px;
+    }
+    .l_name{
+        margin-top: 60px;
+    }
+    .btn{
+        margin-left: 25%;
+    }
+.our_gellary h2{
+    font-size: 36px;
+}
+.our_gellary p {
+    font-size: 16px;
+}
+
+}
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*navbar start*/
+    .navbar ul li a{
+        font-size: 20px;
+    }
+    /*navbar end*/
+     /*team leader start*/
+    .leader{
+        margin-top: 130px;
+        margin-bottom: 150px;
+    }
+    .team_leader h2{
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .bt{
+        width: 260px;
+    }
+    .team_leader p{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 100px;
+        margin-top: 40px;
+
+       
+    }
+.l_one h2 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    font-size: 25px;
+    }
+    .l_one p{
+        margin-top: 25px;
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+     /*client*/
+    .f_h{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .f_h h1{
+        font-size:50px;
+    }
+    .f_h p{
+        margin-top: 15px;
+        font-size:16px;
+    }
+    /*contacts start*/
+    .c_contacts{
+        margin-top: 150px;
+    }
+    .c_contacts h2{
+        font-size: 45px;
+    }
+    .c_contacts p{
+        margin-top: 30px;
+        font-size: 20px;
+        padding: 0 0px;
+    }
+    .l_name{
+        margin-top: 60px;
+    }
+    .btn{
+
+    }
+    .our_gellary h2{
+    font-size: 45px;
+    }
+    .our_gellary p {
+        font-size: 20px;
+    }
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+        /*headertop*/
+    .headertop h2{
+        font-size: 22px;
+    }
+        /*navbar start*/
+            .navbar ul li a{
+                font-size: 18px;
+            }
+        /*navbar end*/
+        /*team leader start*/
+    .leader{
+        margin-top: 130px;
+        margin-bottom: 200px;
+    }
+    .team_leader h2{
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .bt{
+        width: 280px;
+    }
+    .team_leader p{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 100px;
+        margin-top: 40px;
+
+       
+    }
+    .l_one h2 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    font-size: 25px;
+    }
+    .l_one p{
+        margin-top: 25px;
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+    /*client*/
+    .f_h{
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .f_h h1{
+        font-size:50px;
+    }
+    .f_h p{
+        margin-top: 15px;
+        font-size:16px;
+    }
+    /*contacts start*/
+    .c_contacts{
+        margin-top: 150px;
+    }
+    .c_contacts h2{
+        font-size: 45px;
+    }
+    .c_contacts p{
+        margin-top: 30px;
+        font-size: 20px;
+        padding: 0 130px;
+    }
+
+    .btn{
+        margin-left: 35%;
+    }
+    .our_gellary h2{
+    font-size: 50px;
+    }
+    .our_gellary p {
+        font-size: 22px;
+    }
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*navbar start*/
+            .navbar ul li a{
+                font-size: 16px;
+                margin-right: 15px;
+            }
+    /*navbar end*/
+    /*team leader start*/
+    .leader{
+        margin-top: 150px;
+        margin-bottom: 200px;
+    }
+    .team_leader h2{
+        font-size: 45px;
+        margin-bottom: 20px;
+    }
+    .bt{
+        width: 330px;
+    }
+    .team_leader p{
+        font-size: 22px;
+        margin-top: 30px;
+        margin-bottom: 120px;
+        margin-top: 50px;
+
+       
+    }
+    .l_one h2 {
+    margin-top: 30px;
+    margin-bottom: 0;
+    font-size: 28px;
+    }
+    .l_one p{
+        margin-top: 30px;
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+    /*client*/
+    .f_h{
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .f_h h1{
+        font-size:60px;
+    }
+    .f_h p{
+        margin-top: 15px;
+        font-size:20px;
+    }
+    /*contacts start*/
+    .c_contacts{
+        margin-top: 200px;
+    }
+    .c_contacts h2{
+        font-size: 50px;
+    }
+    .c_contacts p{
+        margin-top: 40px;
+        font-size: 22px;
+        padding: 0 160px;
+    }
+
+ /* X-Large devices (desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    /*navbar start*/
+            .navbar ul li a{
+                font-size: 18px;
+                margin-right: 20px;
+            }
+    /*navbar end*/
+    /*team leader start*/
+    .team_leader h2{
+        font-size: 50px;
+    }
+    .bt{
+        width: 360px;
+    }
+    .team_leader p{
+        font-size: 22px;
+    }
+ }
+
+ /* XX-large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
